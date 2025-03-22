@@ -80,15 +80,15 @@ TROSD
 
 ## Reference
 
-Any reference to our code is welcomed. 
+Welcome to reference our work. 
 
     @article{sun2023trosd,
-     title={Trosd: A new rgb-d dataset for transparent and reflective object segmentation in practice},
-     author={Sun, Tianyu and Zhang, Guodong and Yang, Wenming and Xue, Jing-Hao and Wang, Guijin},
-     journal={IEEE Transactions on Circuits and Systems for Video Technology},
-     volume={33},
-     number={10},
-     pages={5721--5733},
-     year={2023},
-     publisher={IEEE}
+      title={Trosd: A new rgb-d dataset for transparent and reflective object segmentation in practice},
+      author={Sun, Tianyu and Zhang, Guodong and Yang, Wenming and Xue, Jing-Hao and Wang, Guijin},
+      journal={IEEE Transactions on Circuits and Systems for Video Technology},
+      volume={33},
+      number={10},
+      pages={5721--5733},
+      year={2023},
+      publisher={IEEE}
     }
