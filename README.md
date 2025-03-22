@@ -1,6 +1,8 @@
 # TROSNet 
 
-This repo is the implementation of TROSNet, a baseline method for transparent and reflective object segmentation. It currently includes code only. TROSD, the Transparent and Reflective Object Segmentation Dataset we propose would be made public upon publication. 
+This repo is the implementation of TROSNet, a baseline method for transparent and reflective object segmentation. 
+
+Some more details are also disclosed in <a href="https://codeocean.com/capsule/8854419/tree/v1">CodeOcean</a>. 
 
 ## Environment
  
