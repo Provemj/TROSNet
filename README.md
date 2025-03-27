@@ -1,6 +1,6 @@
 # TROSNet 
 
-This repo is the implementation of TROSNet, a baseline method for transparent and reflective object segmentation. 
+This repo is the implementation of TROSNet, a baseline method for transparent and reflective object segmentation. Project page at <a href="https://provemj.github.io/trosd.github.io/">here</a>. 
 
 Some more details are also disclosed in <a href="https://codeocean.com/capsule/8854419/tree/v1">CodeOcean</a>. 
 
